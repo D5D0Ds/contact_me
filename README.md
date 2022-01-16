@@ -1,10 +1,10 @@
 # contact_me
 
-A new Flutter project.
+A basic Flutter project showing my basic info.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was the starting point for my Flutter journey built few months back.
 
 A few resources to get you started if this is your first Flutter project:
 
